@@ -9,7 +9,7 @@ Developed in Python 3.6.0 |Anaconda 4.3.0 (64-bit)
 
 Development time : 4-5 hours
 
-@author: ***REMOVED*** Kay
+@author: github.com/Emzilla-01
 """
 from numpy import random
 
